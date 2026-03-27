@@ -1,3 +1,6 @@
+来源说明：https://github.com/EasyDarwin/EasyRTC.git
+https://github.com/EasyDarwin/EasyRTC
+这里做自学使用-侵权联系我删除
 # EasyRTC
 
 EasyRTC是一套完整的WebRTC开发套件，包括设备端、服务端、客户端，利用EasyRTC可以构建一套完美的视频交互类应用，例如智能摄像头、可视猫眼门铃、可穿戴硬件、无人机、无人车、机器人等各种场景。百闻不如一见，直接访问官网看效果：[https://www.easyrtc.cn](https://www.easyrtc.cn)
